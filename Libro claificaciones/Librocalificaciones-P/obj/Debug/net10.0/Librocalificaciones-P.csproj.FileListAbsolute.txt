@@ -1,0 +1,29 @@
+C:\Users\gonza\source\repos\Librocalificaciones-P\bin\Debug\net10.0\Librocalificaciones-P.exe
+C:\Users\gonza\source\repos\Librocalificaciones-P\bin\Debug\net10.0\Librocalificaciones-P.deps.json
+C:\Users\gonza\source\repos\Librocalificaciones-P\bin\Debug\net10.0\Librocalificaciones-P.runtimeconfig.json
+C:\Users\gonza\source\repos\Librocalificaciones-P\bin\Debug\net10.0\Librocalificaciones-P.dll
+C:\Users\gonza\source\repos\Librocalificaciones-P\bin\Debug\net10.0\Librocalificaciones-P.pdb
+C:\Users\gonza\source\repos\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.AssemblyInfo.cs
+C:\Users\gonza\source\repos\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.dll
+C:\Users\gonza\source\repos\Librocalificaciones-P\obj\Debug\net10.0\refint\Librocalificaciones-P.dll
+C:\Users\gonza\source\repos\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.pdb
+C:\Users\gonza\source\repos\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.genruntimeconfig.cache
+C:\Users\gonza\source\repos\Librocalificaciones-P\obj\Debug\net10.0\ref\Librocalificaciones-P.dll
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\bin\Debug\net10.0\Librocalificaciones-P.exe
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\bin\Debug\net10.0\Librocalificaciones-P.deps.json
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\bin\Debug\net10.0\Librocalificaciones-P.runtimeconfig.json
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\bin\Debug\net10.0\Librocalificaciones-P.dll
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\bin\Debug\net10.0\Librocalificaciones-P.pdb
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.AssemblyInfo.cs
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.dll
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\obj\Debug\net10.0\refint\Librocalificaciones-P.dll
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.pdb
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\obj\Debug\net10.0\Librocalificaciones-P.genruntimeconfig.cache
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\obj\Debug\net10.0\ref\Librocalificaciones-P.dll
+C:\Users\gonza\source\repos\Libro claificaciones\Librocalificaciones-P\obj\Debug\net10.0\Librocal.EFE8003A.Up2Date
